@@ -1,0 +1,12 @@
+{
+  "name": "jest-coverage-leak",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch ./module.spec.js"
+  },
+  "dependencies": {
+    "jest": "^22.1.4"
+  }
+}
