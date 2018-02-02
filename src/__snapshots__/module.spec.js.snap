@@ -2,6 +2,6 @@
 
 exports[`EventEmitter should always update snapshot to now 1`] = `
 Object {
-  "now": 1517600598496,
+  "answer": 42,
 }
 `;
